@@ -13,6 +13,7 @@ After the .circuit line , the following lines have the data of circuital compone
 eg netlist file:
 
 .circuit
+
 V1 GND 1 ac 1 0
 
 R1 1 2 4.5e3
